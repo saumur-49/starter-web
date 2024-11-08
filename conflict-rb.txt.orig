@@ -1,0 +1,8 @@
+#ajouter les lignes suivantes
+ligne1
+ligne2
+<<<<<<< HEAD
+je modifie la ligne3
+=======
+Je mofifie la ligne 3 dans master
+>>>>>>> 60ab44e (Generation du conflit : Modificaiton de la ligne 3 de conflit-rb.txt dans master)
