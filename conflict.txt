@@ -1,4 +1,4 @@
 #ajouter les lignes suivantes:
-ligne1
+je modifie la ligne1 dans master
 ligne2
 ligne3
